@@ -1,0 +1,6 @@
+@TechnologiesOnPlatformNET.REST_HostAddress = http://localhost:5213
+
+GET {{TechnologiesOnPlatformNET.REST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
